@@ -40,7 +40,7 @@ The dataset contains customer-level information such as:
 
 ## 🚀 Results
 - Best performing model: **LogisticRegression(C=100,penalty='l1',solver='liblinear')**  
-- Achieved around **80~%** with balanced performance across churn and non-churn classes.  
+- Achieved around **80~%** accuracy with balanced performance across churn and non-churn classes.  
 
 ---
 
